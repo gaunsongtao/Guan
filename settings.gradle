@@ -1,1 +1,1 @@
-include ':app', ':xlistview_library', ':guansongtao20200106', ':lianxi1', ':pullToRefreshlibrary', ':guansongtao20200218', ':guanshongtao20200218', ':0220zuoyue'
+include ':app', ':xlistview_library', ':guansongtao20200106', ':lianxi1', ':pullToRefreshlibrary', ':guansongtao20200218', ':guanshongtao20200218', ':0220zuoyue', ':day1'
